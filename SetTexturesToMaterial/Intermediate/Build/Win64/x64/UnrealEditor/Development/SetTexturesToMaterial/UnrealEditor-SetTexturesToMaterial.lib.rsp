@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SetTexturesToMaterial.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Epic Games\PluginsProject\PluginProject\Intermediate\Build\Win64\x64\PluginProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"F:\Epic Games\PluginsProject\PluginProject\Plugins\SetTexturesToMaterial\Intermediate\Build\Win64\x64\UnrealEditor\Development\SetTexturesToMaterial\Module.SetTexturesToMaterial.cpp.obj"
+"F:\Epic Games\PluginsProject\PluginProject\Plugins\SetTexturesToMaterial\Intermediate\Build\Win64\x64\UnrealEditor\Development\SetTexturesToMaterial\Default.rc2.res"
+/OUT:"F:\Epic Games\PluginsProject\PluginProject\Plugins\SetTexturesToMaterial\Intermediate\Build\Win64\x64\UnrealEditor\Development\SetTexturesToMaterial\UnrealEditor-SetTexturesToMaterial.lib"

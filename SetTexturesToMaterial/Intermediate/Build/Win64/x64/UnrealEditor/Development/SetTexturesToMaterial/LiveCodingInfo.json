@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SetTexturesToMaterial.cpp.obj": [
+			"SetTexturesToMaterial.cpp.obj"
+		]
+	}
+}
