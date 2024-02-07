@@ -2,6 +2,7 @@
 	"BuildId": "27405482",
 	"Modules": 
 	{
+		"DuckTools": "UnrealEditor-DuckTools.dll",
 		"SetTexturesToMaterial": "UnrealEditor-SetTexturesToMaterial.dll"
 	}
 }

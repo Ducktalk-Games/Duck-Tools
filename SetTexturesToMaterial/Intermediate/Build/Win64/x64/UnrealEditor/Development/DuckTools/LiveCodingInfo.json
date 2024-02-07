@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DuckTools.cpp.obj": [
+			"SetTexturesToMaterial.cpp.obj"
+		]
+	}
+}
